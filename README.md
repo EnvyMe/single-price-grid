@@ -70,4 +70,4 @@ None at the moment.
 
 - Website - [Jesse Vega](https://www.linkedin.com/in/jesse-vega-2922b57a/)
 - Frontend Mentor - [@EnvyMe](https://www.frontendmentor.io/profile/EnvyMe)
-- Twitter - [@yourusername](https://twitter.com/VegaPlaysSega)
+- Twitter - [@VegaPlaysSega](https://twitter.com/VegaPlaysSega)
