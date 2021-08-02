@@ -1,0 +1,93 @@
+@media screen and (max-width: 1000px) {
+    body .main-window{
+        padding: 8% 30%;
+    }
+}
+
+body{
+    background-color: hsl(204, 43%, 93%);
+    font-family: 'Karla';
+    font-weight: 500;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.boxes{
+    padding: 2rem 1.5rem 1.5rem;
+    color:white;
+}
+
+.main-window{
+    padding: 8% 5%;
+}
+
+/* MAIN BOX */
+.main-box{
+    background-color: #fff;
+    line-height: 2.5;
+    padding-bottom: 3.5rem;
+}
+
+
+.join-text{
+    color:hsl(179, 62%, 43%);
+    font-size: 1.75rem;
+}
+
+.hassle-free{
+    color:hsl(71, 73%, 54%);
+    font-weight: 700;
+    font-size: 1.25rem;
+}
+
+.access-text{
+    color:hsl(218, 22%, 67%);
+}
+
+/* SECONDARY BOX 1 */
+.secondary-box1{
+    background-color:hsl(179, 62%, 43%);
+    line-height: 2.5;
+}
+
+.btn-primary{
+    background-color: hsl(71, 73%, 54%);
+    border:none;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.secondary-box1 h2{
+    font-size:1rem;
+    color: hsla(0, 0%, 100%, 0.534);
+}
+
+.price{
+    font-size: 2rem;
+    font-weight: 700;
+    color:white;
+}
+
+/* SECONDARY BOX 2 */
+.secondary-box2{
+    background-color:#4abebd;  
+}
+
+ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    color:hsla(0, 0%, 100%, 0.534);
+}
+
